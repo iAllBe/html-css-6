@@ -1,0 +1,35 @@
+﻿* {
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 40px 0px;
+}
+
+.header__nav {}
+
+.nav__link {}
+
+.top {
+    padding: 40px 0 162px;
+}
+
+.top__content {}
+
+.title {
+    margin: 0 0 17px;
+}
+
+.subtitle {
+    margin: 0 0 37px;
+}
+
+.top-cintent__buttons {}
+
+.button {}
+
+.logos {
+    padding: 97px 0 96px;
+}
